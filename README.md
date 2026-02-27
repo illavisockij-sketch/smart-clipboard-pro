@@ -54,9 +54,6 @@ Python (если запускать из исходников)
 
 Готово ✅
 
-Вариант 2 — Запуск из исходного кода
-pip install customtkinter pillow keyboard pywin32
-python main.py
 **Где хранятся данные**
 
 Все данные сохраняются локально:
